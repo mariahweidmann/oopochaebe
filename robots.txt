@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://inuleegiem.wangzhongxing.com/sitemap.xml
